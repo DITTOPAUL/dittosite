@@ -1,0 +1,26 @@
+body{
+    background-image: url(images/jo.JPG);
+    background-size: cover ;
+    background-repeat: no-repeat;
+    
+
+}
+.header{
+    background-color: rgba(0, 0, 0, 0.5) ;
+    padding:10px 10px 10px 10px;
+    border-radius: 10px;
+}
+.header h3{
+    color: #dfe6e9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header a{
+    text-decoration: none;
+    color:white ;
+    letter-spacing: 1px;
+    margin-right: 10px;
+    font-family: tahoma;
+}
+.header a:hover{
+    color: black;
+}
